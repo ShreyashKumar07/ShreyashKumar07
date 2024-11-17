@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShreyashKumar
-- 👀 I’m interested in Business and Data Analysis
+- 👀 I’m interested in Business Analyst
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Neural Networks, Explainable AI (XAI), Generative AI
 - 💞️ I’m looking to collaborate on Projects related to AI especially if it involves deep learning.
 - 📫 How to reach me shreyashkumar207@gmail.com
